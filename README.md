@@ -98,9 +98,8 @@ S3 is often used as the central repository (Data Lake) for unstructured data in 
 
 Task 1 is foundational to understanding cloud computing. AWS S3 is not just a storage solution — it’s an essential building block for many cloud-based architectures. By completing this task, you're gaining hands-on experience with one of the most powerful and widely used services in cloud computing. This knowledge will prepare you for tasks ahead and is directly applicable in cloud developer, DevOps, and data engineer roles.
 
----
 
-Would you like me to format this into a PDF or add it to your GitHub `README.md` as part of Task 1?
+#Output-
 
-Output- 
+![Image](https://github.com/user-attachments/assets/5d3808dd-98e2-4470-ba03-336334b5ea9d)
 
